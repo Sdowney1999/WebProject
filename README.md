@@ -5,5 +5,5 @@ A website on Sir Tim Berner's Lee
 
 [Verision 1](https://sdowney1999.github.io/WebProject/webessay.html)
 
-[Verision 2](https://sdowney1999.github.io/WebProject/index.html)
+[Verision 2](https://sdowney1999.github.io/WebProject/Index.html)
 
