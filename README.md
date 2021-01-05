@@ -9,7 +9,7 @@ A website on Sir Tim Berner's Lee
 
 First verision of my web essay on Tim Berner's Lee.
 
-[Verision 2](https://sdowney1999.github.io/WebProject/Index.html)
+[Verision 2](https://sdowney1999.github.io/WebProject/index.html)
 
 *05/01/2021
 
