@@ -1,0 +1,166 @@
++-/*----CSS Reset----*/
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/*----Main Styling -----*/
+
+body {
+width: 1000%;
+max-width: 800px;
+margin: auto;
+background: lightblue;
+font-family: 'Roboto', sans-serif;
+
+    
+}
+
+/*-----Typography----*/
+
+h1, h2, h3
+{
+   font-weight: bold;
+    color: #2E86C1;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    margin-bottom: 1.2em;
+    line-height: 1.8;
+    
+}
+
+h1 { 
+    font-size: 3.5em;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2 { 
+     font-size:2.2em;
+     margin: 1em;
+  }
+
+h3{
+    font-size: 1.9em;
+    margin:1em;
+}
+
+.designer{
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+header h2 {
+    margin: 0.5em 0 1em;
+}
+blockquote {
+    font-size: 1.214em;
+    color: cadetblue;
+    hanging-punctuation: first;
+    text-indent: -0.42em;
+    font-family: 'Libre Baskerville', serif;  
+}
+
+blockquote cite{
+   font-size: 1em;
+    color: #2E86C1;
+}
+
+
+hr{
+    margin-top: 2.0em;
+    margin-bottom:auto;
+    height: 1px;
+    background: #2E86C1;
+    color:black;
+    border: 0 none;
+     
+}
+
+blockquote cite{
+   font-size: .9em;
+    color: #2E86C1;
+}
+
+ footer{
+    float: inherit;
+  text-align: center; 
+}
+
+header {margin-top: 7em;
+      }
+
+header h2 {
+    font-style: italic;
+}
+
+/*---Image-------*/
+
+img{
+    display:block;
+    margin: 2em 0;
+    padding:0;
+    max-width: 80%;
+    height: 700px;
+    width: 700px;
+    border: gold 2px solid; 
+
+}
+
+
+caption {
+    margin: 1.8em 0;
+    text-transform: uppercase;
+}
+
+background image{ display: block;
+    
+}
+
+/*---STYLING LINKS -----*/
+
+a{ 
+    text-decoration: none;
+    color:aliceblue;
+}
+
+a:hover {
+            border-bottom:none;
+            color:gold;
+            text-decoration: underline;
+}
+
+
+/*----Navigation-----*/
+nav{
+    position:fixed;
+    top:0;
+    left:0;
+    margin:0;
+    width:100%;
+    background-color:#2E86C1;
+    padding: 1em 0;
+    font-size: 0.76em;
+
+}
+
+nav ul { 
+        text-align: center;
+        text-transform: uppercase;
+}
+
+nav ul li {
+    display: inline;
+    margin: 40px;
+}
+
+footer a { color: seagreen;
+     display:inline; 
+}
+
+footer p { display: inline-block;}
